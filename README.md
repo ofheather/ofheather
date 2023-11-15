@@ -10,9 +10,9 @@ Hola!!! Soy Heather, me gustaría presentarte mi perfil de github, disfrutalo �
 
 ## 🎬 Proyectos actuales
 
-> [Los chamos informan]("https://github.com/Alfonso12Dev/radioweb")
-> [Test nitro unchecked]("https://github.com/Alfonso12Dev/nitro")
+> [Los chamos informan](https://github.com/Alfonso12Dev/radioweb)
+> [Test nitro unchecked](https://github.com/Alfonso12Dev/nitro)
 
 ## 💼 Mí actividad en diversos proyectos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonso12dev)](https://github.com/anuraghazra/github-readme-stats)
