@@ -1,6 +1,6 @@
 Hola!!! Soy Heather, me gustaría presentarte mi perfil de github, disfrutalo ☕🍪
 
-## 💻 Experiencia con los siguientes lenguajes de programación
+## 💻 Skills
 
 -   <img src="https://cdn.discordapp.com/emojis/844666825991520276.png?size=4096" alt="Javascript" width="36" align="center">
 -   <img src="https://cdn.discordapp.com/emojis/1001193725025857616.png?size=4096" alt="Node.js" width="36" align="center">
