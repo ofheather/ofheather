@@ -14,7 +14,8 @@ Tengo más de **2 años de experiencia** desarrollando bots en la librería **[d
 ![node.js](https://img.shields.io/badge/nodejs-%230077B5.svg?logo=nodedotjs&logoColor=white&color=%2366CC33)
 ![discord.js](https://img.shields.io/badge/discord.js-%230077B5.svg?logo=discorddotjs&logoColor=white&color=%235865F2)
 ![MongoDB](https://img.shields.io/badge/mongodb-%230077B5.svg?logo=mongodb&logoColor=white&color=%2300684A)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&style=plastic&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=plastic&logoColor=white&logo=css&color=%231572B6)
 
 ## **📞 Contacto:**
 
