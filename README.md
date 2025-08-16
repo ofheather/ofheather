@@ -1,12 +1,23 @@
-Hola. Bienvenido a mí perfil, soy desarrollador de Bots de Discord y te presentaré varios detalles de mí.
+# 👋 ¡Hola! Soy Heather Marketplace
+---
 
-> 🧑‍💻 Tecnologías que uso:
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/831264615509262336/1406409490374332416/banner.png?ex=68a25c68&is=68a10ae8&hm=0aff24bb2fb5b44718a67c3a874d446e62ec26388bd5219408e4b6bd713951cf&">
+</div>
 
-<img src="https://cdn.discordapp.com/emojis/844666825991520276.png?size=4096" alt="Javascript" width="36"> <img src="https://cdn.discordapp.com/attachments/831264615509262336/1406385836953440288/Discord.js.png?ex=68a24660&is=68a0f4e0&hm=6d98e3223ed8fbad420bd85b87f9cba0d6b5466e4774db3086c5279e357203a4&" alt="DiscordJS" width="36">   <img src="https://cdn.discordapp.com/attachments/831264615509262336/1406386996334559292/MongoDB.png?ex=68a24775&is=68a0f5f5&hm=2932299cf136c3e9ec5d71bbc195bac623dba669129091d69cfdbdd41b810573&" alt="MongoDB" width="36"> <img src="https://cdn.discordapp.com/emojis/904792337388015677.png?size=4096" alt="CSS" width="36"> <img src="https://cdn.discordapp.com/emojis/904792335852900423.png?size=4096" alt="HTML5" width="36" align="center">
+## 🧑‍💻 Desarrollador de Bots de Discord
 
-> 💼 Portafolio:
-<a href="ofheather.is-a.dev">Ingresa aquí</a>.
+Tengo más de **2 años de experiencia** desarrollando bots en la librería **[discord.js](https://www.google.com/search?q=https://discord.js.org/%23/)**, me enfoco en crear soluciones robustas y sostenibles. Siempre en búsqueda de nuevos desafíos y con un fuerte compromiso por el aprendizaje continuo.
 
-> 📊 Mí actividad en github
+## **💻 Tecnologías:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofheather)](https://github.com/anuraghazra/github-readme-stats)
+![node.js](https://img.shields.io/badge/nodejs-%230077B5.svg?logo=nodedotjs&logoColor=white&color=%2366CC33)
+![discord.js](https://img.shields.io/badge/discord.js-%230077B5.svg?logo=discorddotjs&logoColor=white&color=%235865F2)
+![MongoDB](https://img.shields.io/badge/mongodb-%230077B5.svg?logo=mongodb&logoColor=white&color=%2300684A)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+
+## **📞 Contacto:**
+
+- Portafolio: https://ofheather.is-a.dev
+- Correo: ofheathermarketplace@gmail.com
+- Discord: **heather_dev**
