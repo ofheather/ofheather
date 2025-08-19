@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Heather Marketplace
+# 👋 ¡Hola! Soy Heather de Heather Marketplace
 ---
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 Tengo más de **2 años de experiencia** desarrollando bots en la librería **[discord.js](https://www.google.com/search?q=https://discord.js.org/%23/)**, me enfoco en crear soluciones robustas y sostenibles. Siempre en búsqueda de nuevos desafíos y con un fuerte compromiso por el aprendizaje continuo.
 
-## **💻 Tecnologías:**
+## **💻 Tecnologías y Herramientas:**
 
 ![node.js](https://img.shields.io/badge/nodejs-%230077B5.svg?logo=nodedotjs&logoColor=white&color=%2366CC33)
 ![discord.js](https://img.shields.io/badge/discord.js-%230077B5.svg?logo=discorddotjs&logoColor=white&color=%235865F2)
