@@ -19,6 +19,8 @@ Tengo más de **2 años de experiencia** desarrollando bots en la librería **[d
 
 ## **📞 Contacto:**
 
-- Portafolio: https://ofheather.is-a.dev
-- Correo: ofheathermarketplace@gmail.com
-- Discord: **heather_dev**
+| Plataforma: | Acceder                          |
+| :------------------: | :-------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=htmx&perline=3" width=30> | [Portafolio](https://ofheather.is-a.dev)       |
+| <img src="https://skillicons.dev/icons?i=gmail&perline=3" width=30>     | ofheathermarketplace@gmail.com   |
+| <img src="https://skillicons.dev/icons?i=discord&perline=3" width=30>    | **heather_dev**                  |
