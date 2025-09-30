@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/831264615509262336/1406409490374332416/banner.png?ex=68c69da8&is=68c54c28&hm=d8eecdf3e8725118e1ee77dccd2c2600b8ae506360162bd80d2ea3fc922b0bfa&">
+  <img src="banner.png">
 </div>
 
 ## 🧑‍💻 Desarrollador de Bots de Discord
